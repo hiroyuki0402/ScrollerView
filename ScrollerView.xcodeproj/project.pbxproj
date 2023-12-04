@@ -13,6 +13,7 @@
 		3B9496272B1DF5600053A8E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B9496262B1DF5600053A8E2 /* Preview Assets.xcassets */; };
 		3B9496292B1DF5600053A8E2 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9496282B1DF5600053A8E2 /* Persistence.swift */; };
 		3B94962C2B1DF5600053A8E2 /* ScrollerView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3B94962A2B1DF5600053A8E2 /* ScrollerView.xcdatamodeld */; };
+		3B9496332B1DF5D20053A8E2 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9496322B1DF5D20053A8E2 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		3B9496262B1DF5600053A8E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3B9496282B1DF5600053A8E2 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		3B94962B2B1DF5600053A8E2 /* ScrollerView.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ScrollerView.xcdatamodel; sourceTree = "<group>"; };
+		3B9496322B1DF5D20053A8E2 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				3B94961F2B1DF55F0053A8E2 /* ScrollerViewApp.swift */,
 				3B9496212B1DF55F0053A8E2 /* ContentView.swift */,
+				3B9496322B1DF5D20053A8E2 /* CircleView.swift */,
 				3B9496232B1DF5600053A8E2 /* Assets.xcassets */,
 				3B9496282B1DF5600053A8E2 /* Persistence.swift */,
 				3B94962A2B1DF5600053A8E2 /* ScrollerView.xcdatamodeld */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B9496292B1DF5600053A8E2 /* Persistence.swift in Sources */,
+				3B9496332B1DF5D20053A8E2 /* CircleView.swift in Sources */,
 				3B9496222B1DF55F0053A8E2 /* ContentView.swift in Sources */,
 				3B94962C2B1DF5600053A8E2 /* ScrollerView.xcdatamodeld in Sources */,
 				3B9496202B1DF55F0053A8E2 /* ScrollerViewApp.swift in Sources */,
